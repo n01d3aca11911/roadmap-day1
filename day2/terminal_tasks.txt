@@ -1,0 +1,117 @@
+    1  git init
+    2  git config --global user.name "n01d3aca11911"
+    3  git config --global user.email "gambinoedward30@gmail.com"
+    4  git add .
+    5  git commit -m "Day 1 - Initial Python script and setup complete"
+    6  git remote add origin https://github.com/n01d3aca11911/roadmap-day1.git
+    7  git branch -M main
+    8  git push -u origin main
+    9  pwd
+   10  git add log_day1.txt
+   11  pwd
+   12  ls
+   13  ls
+   14  git add log_day1.txt
+   15  git commit -m "Add Day 1 log"
+   16  git push
+   17  pwd
+   18  cd /c/Users
+   19  ls
+   20  cd g
+   21  pwd
+   22  cd /c
+   23  cd /c/Users/G
+   24  pwd
+   25  ls
+   26  ls
+   27  cat
+   28  pwd
+   29  cat 'Zakharia 17.6.2025 2.pdf'
+   30  pwd
+   31  list
+   32  ls
+   33  cat  tell_me_why.mp4
+   34  ls
+   35  cat 'You Gotta Feel It (Outtake).mp3'
+   36  pwd
+   37  ls
+   38  mkdir day2
+   39  cd day2
+   40  pwd
+   41  ls
+   42  mkdir -p projects/logs/data
+   43  cd projects
+   44  touch readme.txt
+   45  echo "Project notes" > readme.txt 
+   46  mv readme.txt notes.txt
+   47  cp notes.txt backup.txt 
+   48  rm backup.txt
+   49  pwd
+   50  ls
+   51  cat notes.txt
+   52  cat backup.txt
+   53  pwd
+   54  cd ~
+   55  pwd
+   56  ls
+   57  cd Desktop
+   58  ls
+   59  rm day2
+   60  rmdir day2
+   61  cd day2
+   62  ls
+   63  cd .
+   64  cd .
+   65  cd ..
+   66  cd ...
+   67  cd day2/projects/
+   68  ls
+   69  cd logs
+   70  ls
+   71  cd data
+   72  ls
+   73  cd ..
+   74  rmdir logs
+   75  rmdir data
+   76  ls
+   77  cd..
+   78  cd .. 
+   79  rmdir logs
+   80  ls
+   81  rm notes.txt
+   82  ls
+   83  cd ..
+   84  rmdir projects
+   85  ls
+   86  cd ..
+   87  rmdir day2
+   88  ls
+   89  mkdir ~/day2
+   90  ls
+   91  cd day2
+   92  cd c/Users/G/day2
+   93  cd /c/Users/G/day2
+   94  cd Desktop
+   95  cd ~/Desktop
+   96  cd day2
+   97  cd ..
+   98  cd ~/day2
+   99  cd ~
+  100  cd~/day2
+  101  cd ~/day2
+  102  mkdir -p projects/logs/data
+  103  cd projects
+  104  touch readme.txt
+  105  echo "Project notes" > readme.txt
+  106  cat readme.txt
+  107  mv readme.txt notes.txt
+  108  cp notes.txt backup.txt
+  109  las
+  110  ls
+  111  rm backup.txt
+  112  ls
+  113  cd ..
+  114  ls -la
+  115  tree .
+  116  touch terminal_tasks.txt
+  117  history > terminal_tasks.txt

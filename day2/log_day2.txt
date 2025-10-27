@@ -1,0 +1,12 @@
+--- Day 2 Log ---
+
+1. What new commands or Python concepts did I learn?
+- I've learned a few things today. First I revisioned previously learned cmds like "ls, cd, mkdir, pwd, touch, cat, echo". After that I've used new cmds to rename and move files (mv),create nested folders (-p) delete files and folders (rv, rvdir) and create copies of files (cp).
+2. What made sense quickly?
+- Simple things like moving and renaming and creating nested folders. It's straightforward, you just do it, no hesitation.
+
+3. What felt slow, confusing, or blocked me?
+- After writing Python script, I tried to test it through GitBash. But GitBash wouldn't respond to my input and this made me frustrated right away.
+4. How will I reduce friction or speed up execution tomorrow?
+-
+No plan really. I just need to keep going, cmd after cmd. I don't know and understand a lot. But I should take my time to learn and practice. that's the only way. 
